@@ -6,6 +6,7 @@ In the project, we analyze the data from three different sources and did a Princ
 
 ## Linear Regression
 Linear regression   
+
 Ridge regression    (with alpha = 1)
 
 Ridge regression    (with alpha = 100)
